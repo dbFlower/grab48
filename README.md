@@ -1,10 +1,10 @@
-# pocket48-grab v2.6
+# gran48 1.0
 
 口袋48视频、房间、信息获取工具。
 
 # 说明
 
-本程序仅供测试使用 https://grab48.github.io
+本程序仅供测试使用 https://kennen0.github.io
 
 # Develop
 
