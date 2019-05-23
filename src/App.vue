@@ -15,7 +15,7 @@ body {
         <router-view></router-view>
       </keep-alive>
       <div class="mdui-row">
-        <p style="text-align: center">M S D F C grab48.github.io</p>
+        <p style="text-align: center">M S D F C kennen0.github.io</p>
       </div>
     </div>
   </div>
