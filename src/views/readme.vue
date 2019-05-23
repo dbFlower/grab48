@@ -19,6 +19,7 @@
       </h3>
       <p>
         <span>当前版本: v{{ sharedState.version }}</span>
+        <span>如有疑问请Telegram: <a href="https://t.me/kennen0">kennen0</a></span>
       </p>
       <p>
         <span>

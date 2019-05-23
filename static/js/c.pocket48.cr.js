@@ -34,6 +34,7 @@ c.pocket48.cr.connect = function (crId,crPrint,crStatus) {
             crStatus(1,{},obj);
         },
         onerror: function(error,obj){ //连接失败
+            // console.log('fail:',error,obj);
             crStatus(0,error,obj);
         },
         onwillreconnect: function(obj){ //断线重连

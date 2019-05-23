@@ -59,8 +59,8 @@ div.c-is-col td.c-switch-width {
             <!-- 类型 -->
             <td>
               {{ row.liveType == 1 ? "视频" : "电台" }}
-              <!-- 在线播放 -->
-              <span v-if="isLive">
+              <!-- 在线播放 暂不可用 -->
+              <span v-if="isLive&&false">
                 <span v-if="row.liveone&&row.liveone.roomId">
                   <a href @click.prevent="livePlay(row)">
                     <i v-if="row.liveType == 1" class="mdui-icon material-icons">live_tv</i>

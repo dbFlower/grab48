@@ -6,6 +6,8 @@
 
 本程序仅供测试使用 https://kennen0.github.io
 
+如有疑问请联系 https://t.me/kennen0
+
 # Develop
 
 ## dev
